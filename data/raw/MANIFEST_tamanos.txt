@@ -1,0 +1,8 @@
+-rw-r--r-- 1 leona 197609 7.3K Oct 22 16:30 ccpc/DatosAbiertos_DECEyEC_ConteosCensales_PrisionPreventiva2024.zip
+-rw-r--r-- 1 leona 197609  16K Oct 22 16:30 ccpc/DatosAbiertos_DECEyEC_ConteosCensales_VotoAnticipado2024.zip
+-rw-r--r-- 1 leona 197609  39M Oct 22 16:29 ccpc/DatosAbiertos_DECEyEC_ConteosCensales2009.zip
+-rw-r--r-- 1 leona 197609  38M Oct 22 16:30 ccpc/DatosAbiertos_DECEyEC_ConteosCensales2012.zip
+-rw-r--r-- 1 leona 197609  41M Oct 22 16:30 ccpc/DatosAbiertos_DECEyEC_ConteosCensales2015.zip
+-rw-r--r-- 1 leona 197609  42M Oct 22 16:30 ccpc/DatosAbiertos_DECEyEC_ConteosCensales2018.zip
+-rw-r--r-- 1 leona 197609  43M Oct 22 16:31 ccpc/DatosAbiertos_DECEyEC_ConteosCensales2021.zip
+-rw-r--r-- 1 leona 197609  79M Oct 22 16:30 ccpc/DatosAbiertos_DECEyEC_ConteosCensales2024.zip
